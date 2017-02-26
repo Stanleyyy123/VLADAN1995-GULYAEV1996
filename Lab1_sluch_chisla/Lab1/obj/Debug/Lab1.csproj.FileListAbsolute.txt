@@ -1,0 +1,18 @@
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\bin\Debug\Lab1.exe.config
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\bin\Debug\Lab1.exe
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\bin\Debug\Lab1.pdb
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.exe
+D:\Учеба\ХАИ\2 семестр\Емперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.pdb
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\bin\Debug\Lab1.exe.config
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.exe
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.pdb
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\bin\Debug\Lab1.exe
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\bin\Debug\Lab1.pdb
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.Form1.resources
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+O:\2 семестр\2 семестр\Эмперические методы программной инженерии\Лаб1\Lab1_sluch_chisla\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
