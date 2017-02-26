@@ -14,7 +14,7 @@ namespace Lab1
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();    //Vlad is here!
         }
         //[-1 42]
 
